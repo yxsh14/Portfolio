@@ -1,8 +1,32 @@
-# React + Vite
+# 3D Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my 3D Developer Portfolio project! This interactive and dynamic website showcases my skills and projects in a visually stunning 3D environment. Utilizing cutting-edge technologies such as React.js, Three.js, React Three Fiber, and Framer Motion, this portfolio provides a unique and engaging user experience.
 
-Currently, two official plugins are available:
+## ⚙️ Tech Stack
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Customizable 3D Hero Section:** Personalize the 3D desktop model to your liking.
+- **Interactive Experience and Work Sections:** Engaging animations powered by Framer Motion.
+- **3D Skills Section:** Showcase your skills using 3D geometries.
+- **Animated Projects and Testimonials:** Dynamic sections for projects and client testimonials.
+- **Contact Section with 3D Earth Model:** Connect with a 3D earth model and email functionality.
+- **3D Stars:** Progressive star generation for an immersive background.
+- **Consistent Animations:** Cohesive animations enhance the user experience.
+- **Responsive Design:** Ensuring optimal display across all devices.
+- **Code Architecture and Reusability:** Maintainable and scalable code structure.
+
+## Make it Yours
+To get started with the Vite + React app:
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Start the development server using `npm run dev`.
+
+Explore the possibilities of 3D web development and elevate your digital presence with this innovative portfolio project. Happy coding!
