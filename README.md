@@ -2,6 +2,8 @@
 
 Welcome to my 3D Developer Portfolio project! This interactive and dynamic website showcases my skills and projects in a visually stunning 3D environment. Utilizing cutting-edge technologies such as React.js, Three.js, React Three Fiber, and Framer Motion, this portfolio provides a unique and engaging user experience.
 
+Live Link : https://yxsh14-portfolio.vercel.app/
+
 ## ⚙️ Tech Stack
 - React.js
 - Three.js
