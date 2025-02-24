@@ -185,7 +185,7 @@ const experiences = [
         title: "Software Development Engineer",
         company_name: "Tripta Innovations Private Limited",
         icon: tripta,
-        iconBg: "#383E56",
+        iconBg: "#FFFFFF",
         date: "Sept 2024 - Present",
         points: [
             "Built a custom blog platform in React with an admin panel for content management.",
