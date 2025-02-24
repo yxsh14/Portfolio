@@ -25,6 +25,10 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import dotnet from "./tech/dotnet.png";
+import csharp from "./tech/csharp.png";
+import aws from "./tech/aws.webp";
+import tripta from "./tripta.png";
 
 
 import doubtnut from "./company/doubtnut.png";
@@ -73,4 +77,8 @@ export {
   trenders,
   price,
   safar,
+  dotnet,
+  csharp,
+  tripta,
+  aws
 };
