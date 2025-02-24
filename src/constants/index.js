@@ -64,7 +64,7 @@ const services = [
     {
         title: "Resume",
         icon: creator,
-        source_code_link: "https://drive.google.com/file/d/1K79xlF_PR2UryclSFswSXlrYzoCxj5CA/view?usp=sharing",
+        source_code_link: "https://drive.google.com/file/d/1XAiESDMxIwUHD4DedwRGOOYapJS9DbVG/view?usp=sharing",
     },
 ];
 
@@ -78,7 +78,7 @@ const technologies = [
         icon: redux,
     },
     {
-        name: "TailwindCSS",
+        name: "AWS",
         icon: tailwind,
     },
     {
@@ -86,7 +86,7 @@ const technologies = [
         icon: nodejs,
     },
     {
-        name: "MongoDB",
+        name: "C#",
         icon: mongodb,
     },
     {
@@ -175,6 +175,19 @@ const experiences = [
             "Excelled in tackling intricate technical hurdles, showcasing adaptability and problem-solving acumen.",
             "Committed to ongoing learning and growth, enhancing technical skills and project success at GoToSIOC.",
             "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Software Development Engineer",
+        company_name: "Tripta Innovations Private Limited",
+        icon: gotosioc,
+        iconBg: "#383E56",
+        date: "Sept 2024 - Present",
+        points: [
+            "Built a custom blog platform in React with an admin panel for content management.",
+            "Optimized SEO using structured data, meta tags, and keyword targeting for better search visibility.",
+            "Developed and integrated new React components into an existing website with AWS and Nginx for reverse proxy.",
+            "Ensured seamless front-end and back-end integration with a unified database for data consistency.",
         ],
     },
 ];
