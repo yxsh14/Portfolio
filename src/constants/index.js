@@ -26,6 +26,10 @@ import {
     trenders,
     price,
     safar,
+    tripta,
+    aws,
+    csharp,
+    dotnet
 } from "../assets";
 
 export const navLinks = [
@@ -74,12 +78,12 @@ const technologies = [
         icon: reactjs,
     },
     {
-        name: "Redux",
-        icon: redux,
+        name: "Dot Net",
+        icon: dotnet,
     },
     {
         name: "AWS",
-        icon: tailwind,
+        icon: aws,
     },
     {
         name: "Node JS",
@@ -87,7 +91,7 @@ const technologies = [
     },
     {
         name: "C#",
-        icon: mongodb,
+        icon: csharp,
     },
     {
         name: "SQL",
@@ -180,7 +184,7 @@ const experiences = [
     {
         title: "Software Development Engineer",
         company_name: "Tripta Innovations Private Limited",
-        icon: gotosioc,
+        icon: tripta,
         iconBg: "#383E56",
         date: "Sept 2024 - Present",
         points: [
