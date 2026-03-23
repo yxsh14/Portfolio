@@ -29,7 +29,7 @@ import dotnet from "./tech/dotnet.png";
 import csharp from "./tech/csharp.png";
 import aws from "./tech/aws.webp";
 import tripta from "./tripta.png";
-
+import codewinglet from "./codewinglet.png";
 
 import doubtnut from "./company/doubtnut.png";
 import ydb from "./company/ydb.png";
@@ -75,7 +75,7 @@ export {
   java,
   postman,
   trenders,
-  price,
+  codewinglet,
   safar,
   dotnet,
   csharp,
