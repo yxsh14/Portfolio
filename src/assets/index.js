@@ -73,6 +73,7 @@ export {
   cpp,
   python,
   java,
+  price,
   postman,
   trenders,
   codewinglet,
