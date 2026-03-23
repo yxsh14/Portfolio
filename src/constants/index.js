@@ -27,6 +27,7 @@ import {
     price,
     safar,
     tripta,
+    codewinglet,
     aws,
     csharp,
     dotnet
@@ -68,7 +69,7 @@ const services = [
     {
         title: "Resume",
         icon: creator,
-        source_code_link: "https://drive.google.com/file/d/1XAiESDMxIwUHD4DedwRGOOYapJS9DbVG/view?usp=sharing",
+        source_code_link: "https://drive.google.com/file/d/1Hf8_aeDAl96AGk64HQLdhfouvbSrjsnB/view?usp=sharing",
     },
 ];
 
@@ -192,6 +193,19 @@ const experiences = [
             "Optimized SEO using structured data, meta tags, and keyword targeting for better search visibility.",
             "Developed and integrated new React components into an existing website with AWS and Nginx for reverse proxy.",
             "Ensured seamless front-end and back-end integration with a unified database for data consistency.",
+        ],
+    },
+    {
+        title: "Software Development Engineer",
+        company_name: "Codewinglet Private Limited",
+        icon: codewinglet,
+        iconBg: "#FFFFFF",
+        date: "March 2025 - Present",
+        points: [
+           "Built end-to-end features across multiple modules of the Autobridge system, integrating 20+ APIs for seamless data flow.",
+           "Developed real-time functionalities for live tracking and dynamic status updates, improving system responsiveness and user experience.",
+           "Implemented efficient state management to ensure consistent data handling across frequently updating components.",
+           "Contributed to platform features by enabling secure user interactions and supporting scalable backend-driven workflows."
         ],
     },
 ];
