@@ -69,7 +69,7 @@ const services = [
     {
         title: "Resume",
         icon: creator,
-        source_code_link: "https://smrtr.io/xyjdP",
+        source_code_link: "https://tinyurl.com/yash-res",
     },
 ];
 
