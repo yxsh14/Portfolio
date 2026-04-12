@@ -69,7 +69,7 @@ const services = [
     {
         title: "Resume",
         icon: creator,
-        source_code_link: "https://drive.google.com/file/d/1Hf8_aeDAl96AGk64HQLdhfouvbSrjsnB/view?usp=sharing",
+        source_code_link: "https://smrtr.io/xyjdP",
     },
 ];
 
